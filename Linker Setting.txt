@@ -1,0 +1,4 @@
+linker option :
+-Imingw-32
+-ISDL2 -ISDL2_main
+-ISDL2_image

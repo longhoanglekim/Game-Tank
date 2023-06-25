@@ -1,0 +1,550 @@
+# depslib dependency file v1.0
+1677942442 source:c:\users\hd\desktop\learnsdl\testmotion\entity.cpp
+	"Entity.hpp"
+	"RenderWindow.hpp"
+
+1677253968 c:\users\hd\desktop\learnsdl\testmotion\entity.hpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1677936555 source:c:\users\hd\desktop\learnsdl\testmotion\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"RenderWindow.hpp"
+	"Entity.hpp"
+	"Map.hpp"
+
+1677942462 c:\users\hd\desktop\learnsdl\testmotion\renderwindow.hpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"Entity.hpp"
+
+1677935892 source:c:\users\hd\desktop\learnsdl\testmotion\renderwindow.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"RenderWindow.hpp"
+
+1677211965 c:\users\hd\desktop\learnsdl\testmotion\ultis.hpp
+	<SDL.h>
+
+1677936013 source:c:\users\hd\desktop\learnsdl\testmotion\map.cpp
+	"Map.hpp"
+	"Common_Func.hpp"
+	"RenderWindow.hpp"
+
+1677942752 c:\users\hd\desktop\learnsdl\testmotion\map.hpp
+	"RenderWindow.hpp"
+
+1677587436 source:c:\users\hd\desktop\learnsdl\testmotion\common_func.cpp
+	"Common_Func.hpp"
+	"RenderWindow.hpp"
+
+1677587415 c:\users\hd\desktop\learnsdl\testmotion\common_func.hpp
+	"RenderWindow.hpp"
+
+1680061080 source:c:\users\hd\desktop\learnsdl\learngit\testmotion\common_func.cpp
+	"Common_Func.hpp"
+	"RenderWindow.hpp"
+
+1679745676 c:\users\hd\desktop\learnsdl\learngit\testmotion\common_func.hpp
+	"RenderWindow.hpp"
+
+1678690461 c:\users\hd\desktop\learnsdl\learngit\testmotion\renderwindow.hpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"Entity.hpp"
+
+1680873627 c:\users\hd\desktop\learnsdl\learngit\testmotion\entity.hpp
+	<iostream>
+	<SDL.h>
+	<vector>
+	<SDL_image.h>
+	"Map.hpp"
+	"BulletObject.hpp"
+	"Game.hpp"
+
+1681132171 source:c:\users\hd\desktop\learnsdl\learngit\testmotion\entity.cpp
+	"Entity.hpp"
+	"RenderWindow.hpp"
+	"Common_Func.hpp"
+
+1681132125 source:c:\users\hd\desktop\learnsdl\learngit\testmotion\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"RenderWindow.hpp"
+	"Entity.hpp"
+	"Map.hpp"
+	"BulletObject.hpp"
+	"Game.hpp"
+	"ThreatObject.hpp"
+
+1680792751 c:\users\hd\desktop\learnsdl\learngit\testmotion\map.hpp
+	"RenderWindow.hpp"
+	"Entity.hpp"
+	<bits/stdc++.h>
+
+1680875831 source:c:\users\hd\desktop\learnsdl\learngit\testmotion\map.cpp
+	"Map.hpp"
+	"Common_Func.hpp"
+	"RenderWindow.hpp"
+	<bits/stdc++.h>
+
+1678897018 source:c:\users\hd\desktop\learnsdl\learngit\testmotion\renderwindow.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"RenderWindow.hpp"
+
+1678005153 source:c:\users\hd\desktop\learnsdl\learngit\testmotion\textobject.cpp
+	"TextObject.hpp"
+	<SDL_ttf.h>
+	"RenderWindow.hpp"
+
+1678003764 c:\users\hd\desktop\learnsdl\learngit\testmotion\textobject.hpp
+	"Common_Func.hpp"
+	"RenderWindow.hpp"
+
+1678627337 source:c:\users\hd\desktop\learnsdl\learngit\testmotion\bulledobject.cpp
+	"BulledObject.hpp"
+	"Entity.hpp"
+
+1678627701 c:\users\hd\desktop\learnsdl\learngit\testmotion\bulledobject.hpp
+	"Common_Func.hpp"
+	"RenderWindow.hpp"
+
+1681132602 source:c:\users\hd\desktop\learnsdl\learngit\testmotion\bulletobject.cpp
+	"BulletObject.hpp"
+	"Common_Func.hpp"
+	"RenderWindow.hpp"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_guid.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<winsdkver.h>
+	<sdkddkver.h>
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	<AvailabilityMacros.h>
+	<TargetConditionals.h>
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\close_code.h
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<lsxintrin.h>
+	<lasxintrin.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_guid.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_guid.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675723810 d:\setupsdllib\sdlmingtarz\sdl2-2.26.3\i686-w64-mingw32\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1561870368 d:\setupsdllib\sdl2_image-2.0.5\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680776261 c:\users\hd\desktop\learnsdl\learngit\testmotion\bulletobject.hpp
+	"Entity.hpp"
+	"RenderWindow.hpp"
+	<vector>
+	"ThreatObject.hpp"
+
+1679213591 c:\users\hd\desktop\learnsdl\learngit\testmotion\game.hpp
+	"RenderWindow.hpp"
+	"Map.hpp"
+	"Entity.hpp"
+	"BulletObject.hpp"
+
+1679213621 source:c:\users\hd\desktop\learnsdl\learngit\testmotion\game.cpp
+	"Game.hpp"
+
+1681110174 source:c:\users\hd\desktop\learnsdl\learngit\testmotion\threatobject.cpp
+	"ThreatObject.hpp"
+	"Common_Func.hpp"
+	"RenderWindow.hpp"
+	<cmath>
+
+1680793888 c:\users\hd\desktop\learnsdl\learngit\testmotion\threatobject.hpp
+	"RenderWindow.hpp"
+	"Map.hpp"
+	"Entity.hpp"
+	"Common_Func.hpp"
+	<SDL.h>
+	<SDL_image.h>
+	"BulletObject.hpp"
+

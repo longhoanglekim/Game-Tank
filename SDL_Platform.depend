@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1677156397 source:c:\users\hd\desktop\learnsdl\sdl_platform\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"RenderWindow.hpp"
+	"Entity.hpp"
+
+1677155270 c:\users\hd\desktop\learnsdl\sdl_platform\renderwindow.hpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"Entity.hpp"
+
+1677156397 source:c:\users\hd\desktop\learnsdl\sdl_platform\renderwindow.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"RenderWindow.hpp"
+
+1677155600 source:c:\users\hd\desktop\learnsdl\sdl_platform\entity.cpp
+	"Entity.hpp"
+
+1677155636 c:\users\hd\desktop\learnsdl\sdl_platform\entity.hpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
